@@ -8,7 +8,8 @@ After completing the UI configuration for:
 
 You may encounter a **Preview error** due to a current backend issue.
 
----
+
+<img width="385" height="211" alt="image" src="https://github.com/user-attachments/assets/fe548140-ad46-43f8-b8a8-b07d16435a2d" />
 
 ## 2) Agent Designer Preview Issue (Thought Signature API Bug)
 
@@ -23,6 +24,7 @@ When the Gemini 2.5/3.0 model receives this incomplete payload (missing the requ
 ## 3) Local Setup Using ADK
 
 After completing the UI configuration, run the following commands locally:
+<img width="1597" height="796" alt="image" src="https://github.com/user-attachments/assets/b37e0666-f13d-4f4e-931e-385ce77af879" />
 
 ### Step 1: Authenticate with Google Cloud
 ```bash
