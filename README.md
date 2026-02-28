@@ -105,5 +105,6 @@ http://localhost:8080
 
 ---
 
-## Reference Video
-https://youtu.be/rl_7RsE8dWs?si=6EnQw8tzFWC6PywR
+## 🎥 Explaination Video on YouTube
+
+[![Watch the Setup Tutorial](https://img.youtube.com/vi/rl_7RsE8dWs/0.jpg)](https://youtu.be/rl_7RsE8dWs?si=6EnQw8tzFWC6PywR)
